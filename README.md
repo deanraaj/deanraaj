@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dola Naga Raju</h1>
 <h3 align="center">I am Assistant System Engineer at Tata Consultancy Services (TCS) with a diverse skill set. I excel in Java, SQL, HTML, CSS, and JavaScript, and I'm well-versed in Spring Boot. Recently, I earned certification in Full Stack Web Development with a focus on Java, fueling my passion for creating impactful solutions. Let's connect and explore tech opportunities together! #JavaDeveloper #SQLExpert #HTML #CSS #JavaScript #SpringBoot #TCS #TechEnthusiast</h3>
 
-- 🔭 I’m currently working in **Tata Consultancy Services as Assistant System Engineer**
+- 🔭 I’m currently working in **Tata Consultancy Services as System Engineer**
 
 - 🌱 I’m currently learning **Java Data Structures and Algorithms, OOPs Concept and Spring Boot**
 

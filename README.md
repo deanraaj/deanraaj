@@ -1,7 +1,27 @@
 <h1 align="center">Hi 👋, I'm Dola Naga Raju</h1>
-<h3 align="center">I am System Engineer at Tata Consultancy Services (TCS) with a diverse skill set. I excel in Java, SQL, HTML, CSS, and JavaScript, and I'm well-versed in Spring Boot. Recently, I earned certification in Full Stack Web Development with a focus on Java, fueling my passion for creating impactful solutions. Let's connect and explore tech opportunities together! #JavaDeveloper #SQLExpert #HTML #CSS #JavaScript #SpringBoot #TCS #TechEnthusiast</h3>
 
-- 🔭 I’m currently working in **Tata Consultancy Services as System Engineer**
+<h3 align="center">
+Backend Java Developer with 3+ years of experience building RESTful APIs and backend services using Java and Spring Boot.
+Experienced in database optimization, Redis caching, and secure API development with Spring Security.
+</h3>
+
+<p align="center">
+Currently working as a Consultant - Java Developer at Deloitte and previously worked at Tata Consultancy Services (TCS).
+</p>
+
+<p align="center">
+Passionate about backend engineering, problem solving, and system design.  
+Solved 275+ problems on LeetCode and continuously improving my skills in microservices and distributed systems.
+</p>
+
+<p align="center">
+🚀 Tech Stack: Java | Spring Boot | REST APIs | Redis | PostgreSQL | MySQL | Spring Security | Git | AWS
+</p>
+
+<p align="center">
+Let's connect and build scalable backend systems together!
+</p>
+- 🔭 I’m currently working in **Deloitte as Consultant - Java Developer**
 
 - 🌱 I’m currently learning **Java Data Structures and Algorithms, OOPs Concept and Spring Boot**
 
